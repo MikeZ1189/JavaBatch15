@@ -1,0 +1,62 @@
+- What does SDLC stands for?
+    Software Development Life Cycle
+
+- Which of the following phase is not part of the SDLC?
+    Hacking Phase
+
+- Gathering requirements from the stack holders/client is the responsibility of who?
+    Business Analyst
+
+- What is a requirement?
+    The expectations of users who will use the product; description of services that software must provide; and description of functionality of target system.
+
+- How requirements are defined in a scrum?
+    User Stories
+
+- When do we start testing in SDLC?
+    As early as possible
+
+- Which of the following is not an activity under the Testing Phase?
+    Creating database
+
+- What is the correct chronological order of SDLC?
+    Planning, analysis, design, implementation, testing & integration, maintenance
+
+- Which of the following is true about Waterfall methodology?
+    Sequential process, hard to go back and make changes
+
+- Advantages of waterfall?
+    Step by step process, easy to understand, easy to manage
+
+- Which of the following agile framework is widely used?
+    Scrum
+
+- Typically how long should agile sprint be?
+    2 to 4 weeks
+
+- Which of the following meeting is not part of Scrum?
+    Product review meeting
+
+- Typically how long should a daily stand up be?
+    15 mins
+
+- True or false, Sprint backlog contains a prioritized list of business requiremtns?
+    false
+
+- True or false, Product backlog contains the user stories to be done by the scrum team for a sprint?
+    False
+
+- How do you measure the complexity or effort in a sprint?
+    Story points
+
+- Sprint planning is attend by whom?
+    product owner, development team, scrum master
+
+- Do product owner attend daily stand up?
+    false
+
+- A burn-down chart show what type of information?
+    the progress of the work and features completed
+
+- Who is responsible for prioritizing the product backlog?
+    Product owner

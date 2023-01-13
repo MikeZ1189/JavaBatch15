@@ -1,0 +1,4 @@
+Logical operators are
+&&  = AND
+||  = OR
+!!  = NOT
