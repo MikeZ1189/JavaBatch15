@@ -1,0 +1,10 @@
+Scanner class
+- We use scanner to store user inputs.
+- Scanner works as a input device, it is interactive.
+-
+Logical Operators
+just another set of symbols that we can use to combine multiple boolean values.
+! || &&
+NOT (!)
+OR (||)
+AND (&&)
