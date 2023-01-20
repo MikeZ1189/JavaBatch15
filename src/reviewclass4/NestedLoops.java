@@ -10,7 +10,7 @@ public class NestedLoops {
             }
         }
         System.out.println(" ------------------ ");
-        
+
         for (int i = 1; i <5 ; i++) {
             System.out.println("Hello");
             for (int j = 1; j <=2 ; j++) {
