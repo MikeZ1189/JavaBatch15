@@ -16,7 +16,7 @@ public class Dog {
 
     }
     void printColor(){
-        System.out.println(food);
+        //System.out.println(food);
         System.out.println(name);
     }
 }
