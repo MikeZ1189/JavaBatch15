@@ -1,0 +1,21 @@
+package class24;
+
+public final class FinalDemo {
+    public static void main(String[] args) {
+        final int num; // we have created a constant variable
+        num=20;
+        //  num=30; not possible because the variable is declared as final
+    }
+    final void noOneShouldOverrideIt(){
+        System.out.println("This method should never be overridden, otherwise it might break teh code base");
+    }
+}
+
+//class Nelson extends FinalDemo{
+   /* void noOneShouldOverrideIt(){
+        System.out.println("Let me do that"); // can't override this method as it is declared as final
+    }*/
+
+
+//}
+//}
