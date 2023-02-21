@@ -1,0 +1,4 @@
+What is a method?
+    Method is a block of code that executes task.
+Why do we need it?
+    For re-usability and readability.
