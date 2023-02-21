@@ -1,0 +1,24 @@
+Overriding:
+    process when same method exists in super and subclass
+    In order to achieve overriding, inheritance needs to happen
+Why? - to provide flexibility
+How do we implement?
+    1. we need inheritance
+    2. same signature (name+parameters)
+    3. same return type
+    4. access modifiers -> overriding method must have same level of visibility or higher
+
+Final - keyword that identifies something is completed and no modifications can be done
+Final can be used with:
+                        variables- makes variables constant
+                        methods - cannot override it
+                        class - cannot be inherited
+
+Abstraction - process of hiding implementation details and showing only functionality
+Why use it? - reduces complexity, improve maintainability and security
+How to implement abstraction?
+    By using abstract classes - we can achieve 0 to 100% abstraction
+    By using interfaces  - we can achieve 0 to 100% abstraction (before Java 8 it was only 100%)
+
+Abstract class -
+    abstract - keyword that identifies something is incomplete
