@@ -11,7 +11,7 @@ public class CatTester {
         cat1.color="Grey";
         cat1.attitude=false;
 
-        Cat.cat2.new Cat();
+        //Cat.cat2.new Cat();
 
 
     }

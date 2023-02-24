@@ -1,0 +1,69 @@
+"This" keyword refers to the current class/object/instance
+
+"This" can be used to access current class instance variables and methods
+
+This() - used with constructor to call current class constructor
+
+Inheritance-
+What it is? - process when subclass acquires properties and behavior from the superclass.
+
+Why to use it? - for its re-usability, readability, eliminate code redundancy (repeating).
+
+How to implement? - using "extends" keyword
+class Parent{
+
+}
+class Child extends Parent{
+
+}
+
+Inheritance Types:
+Single - 1 child 1 parent
+Multilevel - grandparent --> parent --> child
+Hierarchical - 1 parent multiple children
+
+Can a child class have multiple PARENTS? - Multiple Inheritance (supported with interface)
+    using class concept - NO
+
+Access Modifiers:
+4 types
+from less restrictive to the most
+
+public --> protected --> default --> private
+
+Private members (variables and methods) DO NOT PARTICIPATE in the inheritance
+
+-------------------------------------------------------------------------------------------
+
+VARIABLE SYNTAX
+
+OPTIONAL           OPTIONAL              MUST       MUST
+access modifiers   non access modifier   dataType   name;
+public             static                int        i
+
+
+METHODS SYNTAX
+
+OPTIONAL            OPTIONAL               MUST         MUST
+access modifiers    non access modifier    returnType   name() {} <-- block of code
+public              static                 void         hello()
+
+super keyword - used to refer to the immediate parent class
+
+can be used with variables and methods
+can be used with constructors
+
+-------------------------------------------------------------------------------------------
+
+Flower flower1 = new Flower();
+
+new --> creates an objects
+Flower(); --> initiates the object (calling a constructor)
+
+flower1 --> is variable (reference variable)
+Flower --> type/class
+
+String str= new String(); ---> object initialized
+str="Hello";  ---> object created
+
+String str=new String("Hello");

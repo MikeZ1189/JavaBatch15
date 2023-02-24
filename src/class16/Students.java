@@ -30,7 +30,7 @@ public class Students {
         students2.studentID="456";
         students2.numberOfStudents++;
 
-            System.out.println(Students.numberOfStudents);
+            System.out.println("hell"+Students.numberOfStudents);
         }
     }
 

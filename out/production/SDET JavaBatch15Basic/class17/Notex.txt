@@ -1,0 +1,15 @@
+Access Modifiers:
+    These modifiers control the accessibility of instance or static fields, methods adn classes.
+    There are four (4) access levels and there are three (3) access modifier keywords.
+    1) Private --> keyword
+    2) Default --> not a Keyword
+    3) Protected --> keyword
+    4) Public --> keyword
+
+Constructors:
+    Constructors help us create objects easily or initialize the instance fields of a class in a better way.
+Rules:
+    1) They are similar to methods but they don't have return types.
+    2) They have same name as class name.
+    3) We can use all the access modifiers with the constructors
+    4) Static keyword is not allowed with constructors

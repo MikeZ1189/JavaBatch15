@@ -1,0 +1,8 @@
+Interface:
+    Interface is very similar to an abstract class.
+    A way to achieve abstraction for unrelated classes through implementation.
+    It is a contract between unrelated classes. We can use it to achieve abstraction.
+    All methods are public by default and abstract as well.
+
+Encapsulation:
+    This says that your variables should be private

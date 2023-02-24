@@ -1,0 +1,31 @@
+Polymorphism:Polymorphism is one of the OOPs feature that allows us to perform a single action in different ways.
+            Polymorphism that is achieved with the help of method overloading is called early binding or compile time polymorphism.
+            When we achieve polymorphism with the help of method overriding it is called run time polymorphism.
+
+Two types: Early binding, Static, compile time
+            Runtime and late binding.
+
+            static -> overloading
+            dynamic -> overriding
+
+Why we should learn polymorphism?
+    Polymorphism allows us to write less code and call multiple methods.
+
+Polymorphism Syntax:
+    1) For static polymorphism we only need to overload a method.
+    2) For dynamic polymorphism we need to extend from a class and we need to override the method from the parent class that we want to use in polymorphism.
+
+"Final" Keyword:
+    There are three main uses of the "Final" Keyword.
+    1) variables - when we use the "Final" keyword with a variable we can't change its value once it is assigned.
+    2) methods - When we have created constants then we declare the variables as final
+    3) classes - When we use it with a class, no other class can inherit from that class
+
+Abstraction:
+    Abstraction is the process of hiding implementation details and showing only the functionality to user.
+Why we should use Abstraction:
+    1) It reduces the code complexity.
+    2) It allows the end user to focus on using the features instead of worrying about the implementation.
+Syntax:
+    We need to declare the methods as abstract if we are not planning to provide the implementations.
+    we also need to write the abstract keyword with the class as well.
