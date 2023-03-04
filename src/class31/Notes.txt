@@ -1,0 +1,17 @@
+Working with files:
+    if we have to read the data from a file manually on our computers what do we need?
+    1) We need to know where the file is stored on our computer
+    2) We need to navigate to that folder
+    3) We need a software that understands how the data is stored in those files
+
+To create a new directory:
+    1) Right-Click on your project name
+    2) New -> Directory -> Enter the name
+    3) Right-click on you directory -> new -> File
+    4) Give name to your file and an extension as  .properties (example ->  config.properties)
+
+Why do we need .properties file:
+    we use these file to store information like usernames, password, URLS, database, connection, etc.
+    so that this information is secured and is not pushed with the code to GitHub
+
+How
