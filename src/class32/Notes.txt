@@ -1,0 +1,33 @@
+FileHandling:
+    Reading and writing data to file in Java.
+    1) To read or write the data first we need to know the path
+    or location where we will be reading or writing that file.
+    2) We need to navigate to that location or bring the file into the memory so that Java program
+        can process the data from the file.
+        We use two classes to navigate: FileInputStream and FileOutputStream.
+
+        FileInputStream -> when we have to read the data we use this.
+        FileOutputStream -> when we have to write data we use this.
+    3) We need to know about a class that knows how to read and write the data from that specific file
+        Example:
+                We use Properties class when we have to read the data from the .properties file.
+                When use XSSFWorkBook to read and write the data from Excel files.
+
+Why should we learn about FileHandling?
+    1) We will be storing data like username, passwords, URLs, type of browser etc. in configuration files.
+    2) When we need to perform data driven testing we will be storing and reading all the data from files like xlsx or csv files.
+
+How to read/write data from files:
+    1) get the path
+    2) use FileInputStream/FileOutputStream to navigate
+    3) use a specialized class like Properties or XSSFWorkBook
+
+    =====================================================================
+
+What are Exceptions?
+    Exceptions are run-tine issues that can stop normal flow of our programs and can abruptly terminate the programs
+    which is very bad and leads to bad user experience.
+
+Exception handling:
+    We stop the program from terminating abruptly, and we try to mitigate the issue we provide a backup code.
+    And convert the error messages to simple text.
