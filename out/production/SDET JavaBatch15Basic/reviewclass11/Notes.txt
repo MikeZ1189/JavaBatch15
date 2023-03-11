@@ -1,0 +1,3 @@
+EntryMap:
+    Map stores key-value pairs
+    EntrySet has to fields, key and value
