@@ -24,5 +24,6 @@ public class MapDemo {
         groceries.remove("Meat");
         System.out.println(groceries);
 
+
     }
 }

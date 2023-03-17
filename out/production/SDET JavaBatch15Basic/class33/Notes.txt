@@ -30,3 +30,9 @@ how it works:
 finally block:
     Finally block is always executed no matter what happens in the try block or catch block.
     We should put cleanup code inside the finally block like closing a browser, closing database connection etc.
+
+throw:
+    use the
+
+throws:
+    throws the responsibility to someone else to write the exception code

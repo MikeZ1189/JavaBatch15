@@ -41,6 +41,7 @@ public class MapDemo {
         Map<String, Double> tmap=new TreeMap<>();
         tmap.putAll(grocery);
         tmap.putAll(lmap);
+
         System.out.println("Size ="+tmap.size());
         System.out.println("Sorted order "+tmap);
 

@@ -12,6 +12,7 @@ public class LinkedListsDemo {
         names.add("Sam");
         System.out.println(names);
 
+
         for (String name : names) {  // enhanced loop
             System.out.println(name);
         }

@@ -14,7 +14,6 @@ public class Demo8 {
         names.add("Saba");
 
         System.out.println(names);
-        names.clear();
         System.out.println(names);
     }
 }

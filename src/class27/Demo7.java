@@ -21,6 +21,6 @@ public class Demo7 {
         System.out.println(names);
 
         System.out.println(names.indexOf("Savo"));
-
+        System.out.println(names.get(0));
     }
 }

@@ -14,7 +14,5 @@ public class SetsDemo1 {
         fruit.add("Mango");
         System.out.println(fruit);
 
-
-
     }
 }

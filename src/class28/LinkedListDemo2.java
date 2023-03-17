@@ -29,6 +29,7 @@ public class LinkedListDemo2 {
         subjectsILike.add("Java");
         subjectsILike.add("SDLC");
         subjectsILike.add("SQL");
+
         System.out.println(subjectsILike);
         allSubjects.removeAll(subjectsILike);
         System.out.println(allSubjects);
